@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67292e8a-e4e8-469a-885e-b56bd3bb6069" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nUI9YqoUQhxjOSDlEbNq64US4A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\cinema" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\cinema\api" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67292e8a-e4e8-469a-885e-b56bd3bb6069" name="Default Changelist" comment="" />
+      <created>1611438092168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611438092168</updated>
+      <workItem from="1611438093313" duration="5421000" />
+      <workItem from="1611490234770" duration="5026000" />
+      <workItem from="1611496684284" duration="11645000" />
+      <workItem from="1611613957221" duration="7799000" />
+      <workItem from="1611785275074" duration="6077000" />
+      <workItem from="1611860180120" duration="16621000" />
+      <workItem from="1611948429605" duration="23907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="727" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611439267466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611439267466" />
+    <state x="453" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611438258626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="453" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611438258626" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611787679116">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611787679116" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1611962860915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611962860915" />
+    <state x="141" y="0" width="1428" height="1027" key="dock-window-1" timestamp="1611441870499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="141" y="0" width="1428" height="1027" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1611441870499" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1611498591714">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611498591714" />
+  </component>
+</project>
